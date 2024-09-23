@@ -1,0 +1,6 @@
+Algorithm:
+Initialize two pointers, start and end, which point to the first and last elements of the array, respectively.
+Swap the elements at start and end.
+Move the start pointer forward (i.e., start++) and the end pointer backward (i.e., end--).
+Repeat this process until start becomes greater than or equal to end.
+The array will be reversed after the loop.
